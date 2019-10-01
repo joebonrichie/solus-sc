@@ -698,5 +698,12 @@
 		<Package>spice-up</Package>
 		<Package>libdbusmenu-docs</Package>
 		<Package>libpeas-docs</Package>
+
+		<!-- Merged into paperwork //-->
+		<Package>paperwork-backend</Package>
+		<Package>paperwork-gui</Package>
+
+		<!-- Replaced by libinsane, previously only used by paperwork //-->
+		<Package>python-pyinsane2</Package>
 	</Obsoletes>
 </PISI>
